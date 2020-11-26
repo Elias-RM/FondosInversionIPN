@@ -1,5 +1,7 @@
 # Fondos de Inversión IPN
 
+# [ver trabajo compelto](TRABAJO FINAL SISTEMA FINANCIERO_FONDOS DE INVERSION.pdf)
+
 ## INTRODUCCIÓN
 
 Uno de los grandes problemas de la economía mexicana es la falta de ahorro interno
