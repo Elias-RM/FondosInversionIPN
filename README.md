@@ -1,6 +1,6 @@
 # Fondos de Inversión IPN
 
-# [ver trabajo compelto](TRABAJO FINAL SISTEMA FINANCIERO_FONDOS DE INVERSION.pdf)
+# [ver trabajo compelto](SISTEMA_FINANCIERO_FONDOS_DE_INVERSION.pdf)
 
 ## INTRODUCCIÓN
 
